@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Small academic projects in **Python, Java, PHP**, and **Web Development (HTML/CSS)**, while building a strong foundation in **Algorithms**, **Data Structures**, and **Artificial Intelligence**.<br>
+#💫About Me:
+🔭 I’m currently working on  <br>academic projects in **Python, Java, PHP**, and **Web Development (HTML/CSS)**, while building a strong foundation in **Algorithms**, **Data Structures**, and **Artificial Intelligence**.<br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
