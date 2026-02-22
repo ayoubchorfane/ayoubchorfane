@@ -1,4 +1,4 @@
-#💫About Me:
+#💫About Me:<br>
 🔭 I’m currently working on  <br>academic projects in **Python, Java, PHP**, and **Web Development (HTML/CSS)**, while building a strong foundation in **Algorithms**, **Data Structures**, and **Artificial Intelligence**.<br>
 
 # 💻 Tech Stack:
